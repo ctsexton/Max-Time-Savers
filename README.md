@@ -1,5 +1,5 @@
 # Max-Time-Savers
-A collection of Max/MSP abstractions that have saved me a lot of time. Currently have only tested on Mac OS X but they should work on PC.
+A collection of Max/MSP abstractions that have saved me a lot of time. 
 
 cts.buffer_loader: this patch creates and loads buffers for all the WAV files in a folder. All buffers are assigned a name globally accessible via the buffer_items coll object - click on Buffer List to view.
 
